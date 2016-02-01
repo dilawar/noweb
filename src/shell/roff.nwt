@@ -1,0 +1,238 @@
+###TAG### NW1pQoLK-2K2Wpd-1 1a 
+###TAG### NW1pQoLK-4Qe78U-1 2a 
+###TAG### NW1pQoLK-XmGjo-1 2b 
+###TAG### NW1pQoLK-vUVDy-1 2c 
+###TAG### NW1pQoLK-4XE5VC-1 2d 
+###TAG### NW1pQoLK-4EDVwH-1 2e 
+###TAG### NW1pQoLK-2Ps4TM-1 2f 
+###TAG### NW1pQoLK-4EDVwH-2 3a 
+###TAG### NW1pQoLK-4XE5VC-2 3b 
+###TAG### NW1pQoLK-4EDVwH-3 3c 
+###TAG### NW1pQoLK-4XE5VC-3 3d 
+###TAG### NW1pQoLK-4EDVwH-4 3e 
+###TAG### NW1pQoLK-4EDVwH-5 4a 
+###TAG### NW1pQoLK-4EDVwH-6 4b 
+<standard input>:561: warning: numeric expression expected (got `\')
+<standard input>:563: warning: numeric expression expected (got `\')
+<standard input>:564: warning: numeric expression expected (got `\')
+<standard input>:566: warning: numeric expression expected (got `\')
+<standard input>:567: warning: numeric expression expected (got `\')
+<standard input>:569: warning: numeric expression expected (got `\')
+<standard input>:570: warning: numeric expression expected (got `\')
+<standard input>:571: warning: numeric expression expected (got `\')
+<standard input>:572: warning: numeric expression expected (got `\')
+###TAG### NW1pQoLK-4XFzPP-1 4c 
+<standard input>:590: warning: numeric expression expected (got `\')
+<standard input>:591: warning: numeric expression expected (got `\')
+###TAG### NW1pQoLK-3hfOmy-1 4d 
+###TAG### \$1 \n[%]\n+[SECTIONLETTER] 
+###TAG### NW1pQoLK-2VOoDg-1 5a 
+<standard input>:646: warning: can't find font `\n[PREVft]'
+<standard input>:647: warning: can't find font `\n[OLDft]'
+<standard input>:648: warning: numeric expression expected (got `\')
+<standard input>:649: warning: numeric expression expected (got `\')
+<standard input>:650: warning: numeric expression expected (got `\')
+<standard input>:651: warning: numeric expression expected (got `\')
+<standard input>:653: warning: numeric expression expected (got `\')
+<standard input>:654: warning: numeric expression expected (got `\')
+###TAG### NW1pQoLK-1MW5PI-1 5b 
+###TAG### NW1pQoLK-4XE5VC-4 5c 
+###TAG### NW1pQoLK-4XE5VC-5 5d 
+###TAG### NW1pQoLK-4XE5VC-6 5e 
+###TAG### NW1pQoLK-4EDVwH-7 6a 
+<standard input>:806: warning: numeric expression expected (got `\')
+<standard input>:807: warning: numeric expression expected (got `\')
+###TAG### NW1pQoLK-3w5MzL-1 6b 
+###TAG### NW1pQoLK-4XE5VC-7 6c 
+###TAG### NW1pQoLK-4EDVwH-8 6d 
+###TAG### NW1pQoLK-4XE5VC-8 7a 
+###TAG### NW1pQoLK-4EDVwH-9 7b 
+<standard input>:983: a space character is not allowed in an escape name
+###TAG### NW1pQoLK-nRuDO-1 8a 
+###TAG### NW1pQoLK-4EDVwH-A 8b 
+###TAG### NW1pQoLK-4XE5VC-9 8c 
+###TAG### NW1pQoLK-4EDVwH-B 8d 
+###TAG### NW1pQoLK-4XE5VC-A 9a 
+###TAG### NW1pQoLK-4EDVwH-C 9b 
+###TAG### NW1pQoLK-4XE5VC-B 9c 
+###TAG### NW1pQoLK-4EDVwH-D 9d 
+###TAG### NW1pQoLK-4EDVwH-E 10a 
+###TAG### NW1pQoLK-1vKvln-1 10b 
+###TAG### NW1pQoLK-4EDVwH-F 10c 
+###TAG### NW1pQoLK-4XE5VC-C 11a 
+###TAG### NW1pQoLK-4XE5VC-D 11b 
+###TAG### NW1pQoLK-3ZQNfg-1 11c 
+###TAG### NW1pQoLK-4EDVwH-G 11d 
+###TAG### NW1pQoLK-nRuDO-2 11e 
+###TAG### NW1pQoLK-vUVDy-2 12a 
+###TAG### NW1pQoLK-2JO9tt-1 12b 
+###TAG### NW1pQoLK-4EDVwH-H 13a 
+###TAG### NW1pQoLK-4EDVwH-I 13b 
+###TAG### NW1pQoLK-Nwtg3-1 13c 
+###BEGINCHUNKS###
+###CHUNKBEGIN### action for [[tags]] line
+###CHUNKDEFN### NW1pQoLK-3ZQNfg-1
+###CHUNKUSE### NW1pQoLK-vUVDy-2
+###CHUNKUSE### NW1pQoLK-2JO9tt-1
+###CHUNKEND###
+###CHUNKBEGIN### awk program
+###CHUNKUSE### NW1pQoLK-XmGjo-1
+###CHUNKDEFN### NW1pQoLK-vUVDy-1
+###CHUNKDEFN### NW1pQoLK-vUVDy-2
+###CHUNKEND###
+###CHUNKBEGIN### checkcode
+###CHUNKUSE### NW1pQoLK-4XE5VC-9
+###CHUNKUSE### NW1pQoLK-4XE5VC-A
+###CHUNKUSE### NW1pQoLK-4XE5VC-B
+###CHUNKDEFN### NW1pQoLK-1vKvln-1
+###CHUNKEND###
+###CHUNKBEGIN### Example run
+###CHUNKDEFN### NW1pQoLK-Nwtg3-1
+###CHUNKEND###
+###CHUNKBEGIN### functions
+###CHUNKUSE### NW1pQoLK-vUVDy-1
+###CHUNKDEFN### NW1pQoLK-nRuDO-1
+###CHUNKDEFN### NW1pQoLK-nRuDO-2
+###CHUNKUSE### NW1pQoLK-2JO9tt-1
+###CHUNKEND###
+###CHUNKBEGIN### invoke awk program
+###CHUNKUSE### NW1pQoLK-2K2Wpd-1
+###CHUNKDEFN### NW1pQoLK-XmGjo-1
+###CHUNKEND###
+###CHUNKBEGIN### noroff
+###CHUNKDEFN### NW1pQoLK-2JO9tt-1
+###CHUNKEND###
+###CHUNKBEGIN### plant newline trap
+###CHUNKUSE### NW1pQoLK-4EDVwH-7
+###CHUNKDEFN### NW1pQoLK-3w5MzL-1
+###CHUNKUSE### NW1pQoLK-4EDVwH-9
+###CHUNKEND###
+###CHUNKBEGIN### process arguments
+###CHUNKUSE### NW1pQoLK-2K2Wpd-1
+###CHUNKDEFN### NW1pQoLK-4Qe78U-1
+###CHUNKEND###
+###CHUNKBEGIN### read and process noweb source
+###CHUNKUSE### NW1pQoLK-vUVDy-1
+###CHUNKDEFN### NW1pQoLK-4XE5VC-1
+###CHUNKDEFN### NW1pQoLK-4XE5VC-2
+###CHUNKDEFN### NW1pQoLK-4XE5VC-3
+###CHUNKDEFN### NW1pQoLK-4XE5VC-4
+###CHUNKDEFN### NW1pQoLK-4XE5VC-5
+###CHUNKDEFN### NW1pQoLK-4XE5VC-6
+###CHUNKDEFN### NW1pQoLK-4XE5VC-7
+###CHUNKDEFN### NW1pQoLK-4XE5VC-8
+###CHUNKDEFN### NW1pQoLK-4XE5VC-9
+###CHUNKDEFN### NW1pQoLK-4XE5VC-A
+###CHUNKDEFN### NW1pQoLK-4XE5VC-B
+###CHUNKDEFN### NW1pQoLK-4XE5VC-C
+###CHUNKDEFN### NW1pQoLK-4XE5VC-D
+###CHUNKEND###
+###CHUNKBEGIN### read back code chunk from diversion
+###CHUNKUSE### NW1pQoLK-4EDVwH-5
+###CHUNKDEFN### NW1pQoLK-2VOoDg-1
+###CHUNKEND###
+###CHUNKBEGIN### restore environment
+###CHUNKUSE### NW1pQoLK-4EDVwH-5
+###CHUNKDEFN### NW1pQoLK-1MW5PI-1
+###CHUNKEND###
+###CHUNKBEGIN### save environment
+###CHUNKUSE### NW1pQoLK-4EDVwH-5
+###CHUNKDEFN### NW1pQoLK-4XFzPP-1
+###CHUNKEND###
+###CHUNKBEGIN### set local environment
+###CHUNKUSE### NW1pQoLK-4EDVwH-5
+###CHUNKDEFN### NW1pQoLK-3hfOmy-1
+###CHUNKEND###
+###CHUNKBEGIN### start document
+###CHUNKUSE### NW1pQoLK-4XE5VC-1
+###CHUNKDEFN### NW1pQoLK-2Ps4TM-1
+###CHUNKEND###
+###CHUNKBEGIN### tmac.w
+###CHUNKDEFN### NW1pQoLK-4EDVwH-1
+###CHUNKDEFN### NW1pQoLK-4EDVwH-2
+###CHUNKDEFN### NW1pQoLK-4EDVwH-3
+###CHUNKDEFN### NW1pQoLK-4EDVwH-4
+###CHUNKDEFN### NW1pQoLK-4EDVwH-5
+###CHUNKDEFN### NW1pQoLK-4EDVwH-6
+###CHUNKDEFN### NW1pQoLK-4EDVwH-7
+###CHUNKDEFN### NW1pQoLK-4EDVwH-8
+###CHUNKDEFN### NW1pQoLK-4EDVwH-9
+###CHUNKDEFN### NW1pQoLK-4EDVwH-A
+###CHUNKDEFN### NW1pQoLK-4EDVwH-B
+###CHUNKDEFN### NW1pQoLK-4EDVwH-C
+###CHUNKDEFN### NW1pQoLK-4EDVwH-D
+###CHUNKDEFN### NW1pQoLK-4EDVwH-E
+###CHUNKDEFN### NW1pQoLK-4EDVwH-F
+###CHUNKDEFN### NW1pQoLK-4EDVwH-G
+###CHUNKDEFN### NW1pQoLK-4EDVwH-H
+###CHUNKDEFN### NW1pQoLK-4EDVwH-I
+###CHUNKEND###
+###CHUNKBEGIN### toroff
+###CHUNKDEFN### NW1pQoLK-2K2Wpd-1
+###CHUNKEND###
+###ENDCHUNKS###
+###BEGININDEX###
+###ENTRYBEGIN### awkfile
+###ENTRYDEFN### NW1pQoLK-XmGjo-1
+###ENTRYEND###
+###ENTRYBEGIN### chunkdefn
+###ENTRYDEFN### NW1pQoLK-3ZQNfg-1
+###ENTRYEND###
+###ENTRYBEGIN### chunkuse
+###ENTRYDEFN### NW1pQoLK-3ZQNfg-1
+###ENTRYEND###
+###ENTRYBEGIN### code
+###ENTRYDEFN### NW1pQoLK-4XE5VC-3
+###ENTRYEND###
+###ENTRYBEGIN### convquote
+###ENTRYDEFN### NW1pQoLK-nRuDO-1
+###ENTRYEND###
+###ENTRYBEGIN### defn
+###ENTRYDEFN### NW1pQoLK-4XE5VC-8
+###ENTRYEND###
+###ENTRYBEGIN### delay
+###ENTRYDEFN### NW1pQoLK-4Qe78U-1
+###ENTRYEND###
+###ENTRYBEGIN### entryarray
+###ENTRYDEFN### NW1pQoLK-3ZQNfg-1
+###ENTRYEND###
+###ENTRYBEGIN### entrydefn
+###ENTRYDEFN### NW1pQoLK-3ZQNfg-1
+###ENTRYEND###
+###ENTRYBEGIN### entryuse
+###ENTRYDEFN### NW1pQoLK-3ZQNfg-1
+###ENTRYEND###
+###ENTRYBEGIN### lastdefnlabel
+###ENTRYDEFN### NW1pQoLK-4XE5VC-8
+###ENTRYEND###
+###ENTRYBEGIN### lastuse
+###ENTRYDEFN### NW1pQoLK-4XE5VC-B
+###ENTRYEND###
+###ENTRYBEGIN### lastxreflabel
+###ENTRYDEFN### NW1pQoLK-4XE5VC-2
+###ENTRYEND###
+###ENTRYBEGIN### lastxrefref
+###ENTRYDEFN### NW1pQoLK-4XE5VC-2
+###ENTRYEND###
+###ENTRYBEGIN### macrodir
+###ENTRYDEFN### NW1pQoLK-2JO9tt-1
+###ENTRYEND###
+###ENTRYBEGIN### name
+###ENTRYDEFN### NW1pQoLK-4XE5VC-8
+###ENTRYEND###
+###ENTRYBEGIN### noindex
+###ENTRYDEFN### NW1pQoLK-4Qe78U-1
+###ENTRYEND###
+###ENTRYBEGIN### tag
+###ENTRYDEFN### NW1pQoLK-nRuDO-2
+###ENTRYEND###
+###ENTRYBEGIN### tags
+###ENTRYDEFN### NW1pQoLK-3ZQNfg-1
+###ENTRYEND###
+###ENTRYBEGIN### tagsfile
+###ENTRYDEFN### NW1pQoLK-XmGjo-1
+###ENTRYEND###
+###ENTRYBEGIN### text
+###ENTRYDEFN### NW1pQoLK-4XE5VC-4
+###ENTRYEND###
+###ENDINDEX###
