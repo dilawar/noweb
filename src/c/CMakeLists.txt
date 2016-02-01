@@ -1,2 +1,3 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 FILE(GLOB SRCS *.c)
 add_library(noweb_c ${SRCS})
